@@ -4,7 +4,7 @@ Stack Overflow Question Quality Improvement
 ## Dataset Introduction
 This dataset expands the Jie Yang's [work](https://chauff.github.io/documents/publications/HYPER2014-yang.pdf) by adding the answer count for each revision. 
 
-The data is in [__target.csv__](). The columns in __target.csv__ are as follows:
+The data is in [__target.csv__](https://github.com/bigheiniu/QuestionImprovement/blob/master/target.csv). The columns in __target.csv__ are as follows:
 
 | Column Name  | Meaning                                                     |
 | :----------- | ----------------------------------------------------------- |
